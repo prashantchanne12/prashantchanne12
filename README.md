@@ -22,6 +22,7 @@
 - ⛓️ [**Decentralized Donations**](https://github.com/prashantchanne12/decentralized-donation-platform) - Trustless Ethereum donation platform. Smart contracts, full transparency.
 - 🐦 [**Bird Species Classifier**](https://github.com/prashantchanne12/bird-species-classifier) - Identify bird species from photos using deep learning.
 - 👻 [**Talktonic**](https://github.com/prashantchanne12/TalkTonic) - Never run out of things to say. Pulls random questions from Reddit to keep conversations going.
+- 📽️ [**MovieStack**](https://github.com/prashantchanne12/MovieStack-Flutter) - Flutter movie info app built with the BLoC pattern.
 
 ---
 
