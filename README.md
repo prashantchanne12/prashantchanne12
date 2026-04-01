@@ -11,7 +11,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> Software engineer who ships real things.
+> Software engineer who ships real things. 🌐prashantchanne.com
 
 
 ---
