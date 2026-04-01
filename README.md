@@ -10,7 +10,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> Software engineer who ships real things. 🌐prashantchanne.com
+> Software engineer who ships real things. [prashantchanne.com](https://prashantchanne.com)
 
 
 ---
