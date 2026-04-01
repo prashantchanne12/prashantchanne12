@@ -28,6 +28,6 @@
 
 ## 🔗 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prashantchanne12.github.io-black?style=flat-square&logo=github)](https://prashantchanne12.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@prashantchanne-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantchanne)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prashantchanne.com-black?style=flat-square&logo=github)](https://www.prashantchanne.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@prashant--channe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-channe)
 [![Gmail](https://img.shields.io/badge/Email-prashantchanne121@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prashantchanne121@gmail.com)
