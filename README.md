@@ -17,6 +17,7 @@
 
 ## 🚀 Current Projects
 
+- 🔗 [**send/links**](https://sendlinks.app/) - Save any link in one keystroke. Organized automatically. Find anything in seconds.
 - 📡 [**Bypass**](https://usebypass.app/) - P2P file sharing in the browser. No servers, no middlemen, no drama.
 - 🎬 [**Netflix Comments**](https://netflixcomments.com) - Comment on Netflix shows in real time. Live in the Chrome Web Store.
 - ⛓️ [**Decentralized Donations**](https://github.com/prashantchanne12/decentralized-donation-platform) - Trustless Ethereum donation platform. Smart contracts, full transparency.
